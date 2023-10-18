@@ -1,6 +1,6 @@
 # Latihan 1 Flutter
-# Nama: Rivan Setiawan
-# NPM : 21552011056
+Nama: Rivan Setiawan
+NPM : 21552011056
 Tugas Push project pertama ke github
 
 ## Getting Started
