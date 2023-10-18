@@ -1,6 +1,6 @@
 # Latihan 1 Flutter
 
-Nama: Rivan Setiawan
+Nama: Rivan Setiawan<br>
 
 NPM : 21552011056
 
