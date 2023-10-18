@@ -1,4 +1,4 @@
-# flutter_application_2
+# Latihan 1 Flutter
 
 A new Flutter project.
 
